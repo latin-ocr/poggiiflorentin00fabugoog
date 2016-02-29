@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poggiiflorentin00fabugoog_0020.png"; bbox 0 0 1670 3108; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 34 1113 650 1203">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 34 1113 650 1203">
+     <span class='ocr_line' id='line_1_1' title="bbox 34 1113 650 1203; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 34 1117 230 1203; x_wconf 91' lang='lat' dir='ltr'>POGGII</span> <span class='ocrx_word' id='word_1_2' title='bbox 269 1113 650 1203; x_wconf 86' lang='lat' dir='ltr'><strong>FLORENTINI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 55 1345 713 1434">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 55 1345 713 1434">
+     <span class='ocr_line' id='line_1_2' title="bbox 55 1345 713 1434; baseline 0.015 -10"><span class='ocrx_word' id='word_1_3' title='bbox 55 1353 320 1428; x_wconf 76' lang='lat' dir='ltr'>FACETIARUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 339 1345 617 1434; x_wconf 65' lang='lat' dir='ltr'>mmmm</span> <span class='ocrx_word' id='word_1_5' title='bbox 710 1379 713 1386; x_wconf 89' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 840 3108">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 840 3108">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 840 3108; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 840 3108; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
